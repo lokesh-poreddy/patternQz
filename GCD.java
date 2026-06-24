@@ -13,3 +13,4 @@ public class GCD {
         sol.GCD(48, 18); 
     }
 }
+//nun
