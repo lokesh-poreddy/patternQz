@@ -42,3 +42,4 @@ public class DisappearedNumbers {
         System.out.println(result); // Output: [5, 6]
     }
 }
+//alalalall
